@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Fatima 👋
 
-<!--
-**fatimaLaraibBonk/fatimaLaraibBonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my GitHub page, you can look around and check out some of my projects or repositories.
 
-Here are some ideas to get you started:
+## Introduction 
+Currently I am a student at FAST NUCES, Islamabad with 2 years left till graduation. I've done a few internships that you can check out on my CV/LinkedIn or my portfolio. 
+Long-term, I'm aiming toward public-sector / government work.  I like the idea of building things that actually serve people rather than chasing another growth metric. But I appreciate the opportunities in private sector as well that offer me experience, skills and the chance to get to work on meaningful projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements 
+- Gold Medalist
+- Dean's and Rector's listed
+
+## 🌱 Interests
+- Data Analysis and Visualisation
+- Open Source Intelligence
+- AI/ML models
+- Building Data Pipelines
+- GeoGuessr 
+
+## 🛠️ Tools/Tech
+- D3.js
+- Python
+- CPP
+- SQL
+  
+## 📫 Find me
+- LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B5O9mmuloQq2NpetM%2BwaklQ%3D%3D
+- Email: fatimalaraib06@gmail.com
+
+---
+*Boohoo*
