@@ -24,6 +24,8 @@ Long-term, I'm aiming toward public-sector / government work.  I like the idea o
 - Python
 - CPP
 - SQL
+- Node js/Express
+- FAST API 
 - Vercel
 
   
