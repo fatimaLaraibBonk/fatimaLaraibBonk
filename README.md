@@ -18,10 +18,14 @@ Long-term, I'm aiming toward public-sector / government work.  I like the idea o
 - GeoGuessr 
 
 ## 🛠️ Tools/Tech
+- React/TypeScript
+- HTML/CSS
 - D3.js
 - Python
 - CPP
 - SQL
+- Vercel
+
   
 ## 📫 Find me
 - LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B5O9mmuloQq2NpetM%2BwaklQ%3D%3D
