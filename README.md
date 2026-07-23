@@ -2,6 +2,7 @@
 
 This is my GitHub page, you can look around and check out some of my projects or repositories.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimaLaraibBonk)
 ## Introduction 
 Currently I am a student at FAST NUCES, Islamabad with 2 years left till graduation. I've done a few internships that you can check out on my CV/LinkedIn or my portfolio. 
 Long-term, I'm aiming toward public-sector / government work.  I like the idea of building things that actually serve people rather than chasing another growth metric. But I appreciate the opportunities in private sector as well that offer me experience, skills and the chance to get to work on meaningful projects. 
