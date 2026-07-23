@@ -38,5 +38,13 @@ Long-term, I'm aiming toward public-sector / government work.  I like the idea o
 - LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B5O9mmuloQq2NpetM%2BwaklQ%3D%3D
 - Email: fatimalaraib06@gmail.com
 
+<p align="center">
+  <a href="fatimalaraib06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B5O9mmuloQq2NpetM%2BwaklQ%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 ---
 *Boohoo*
