@@ -7,6 +7,8 @@ This is my GitHub page, you can look around and check out some of my projects or
 ![GitHub Stats](https://ghstats.dev/api/card?username=FatimaLaraibBonk&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaLaraibBonk&theme=tokyonight)
 
+## Most Recent Project
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo-name)](https://github.com/fatimaLaraibBonk/Flappy-Bird-Neural-Network-Simulation)
 ## Introduction 
 Currently I am a student at FAST NUCES, Islamabad with 2 years left till graduation. I've done a few internships that you can check out on my CV/LinkedIn or my portfolio. 
 Long-term, I'm aiming toward public-sector / government work.  I like the idea of building things that actually serve people rather than chasing another growth metric. But I appreciate the opportunities in private sector as well that offer me experience, skills and the chance to get to work on meaningful projects. 
