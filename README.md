@@ -4,7 +4,6 @@ This is my GitHub page, you can look around and check out some of my projects or
 
 ## 📊 GitHub Stats
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![GitHub Stats](https://ghstats.dev/api/card?username=FatimaLaraibBonk&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaLaraibBonk&theme=tokyonight)
 
