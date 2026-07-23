@@ -4,6 +4,7 @@ This is my GitHub page, you can look around and check out some of my projects or
 
 ## 📊 GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FatimaLaraibBonk&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://ghstats.dev/api/card?username=FatimaLaraibBonk&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaLaraibBonk&theme=tokyonight)
 
