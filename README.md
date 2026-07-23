@@ -6,7 +6,7 @@ This is my GitHub page, you can look around and check out some of my projects or
 
 ![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimaLaraibBonk&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaLaraibBonk&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaLaraibBonk&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaLaraibBonk&theme=tokyonight)
 ## Introduction 
