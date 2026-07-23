@@ -23,20 +23,15 @@ Long-term, I'm aiming toward public-sector / government work.  I like the idea o
 - GeoGuessr 
 
 ## 🛠️ Tools/Tech
-- React/TypeScript
-- HTML/CSS
-- D3.js
-- Python
-- CPP
-- SQL
-- Node js/Express
-- FAST API 
-- Vercel
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
   
 ## 📫 Find me
-- LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B5O9mmuloQq2NpetM%2BwaklQ%3D%3D
-- Email: fatimalaraib06@gmail.com
 
 <p align="center">
   <a href="fatimalaraib06@gmail.com">
