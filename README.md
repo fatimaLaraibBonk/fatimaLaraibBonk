@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/280f8928-a82e-44d6-a7d8-ffa117b3f1cd" /># Hey, I'm Fatima 👋
+# Hey, I'm Fatima 👋
 
 This is my GitHub page, you can look around and check out some of my projects or repositories.
 
