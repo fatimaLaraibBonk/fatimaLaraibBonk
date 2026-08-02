@@ -4,7 +4,7 @@ This is my GitHub page, you can look around and check out some of my projects or
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaLaraibBonk&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatimaLaraibBonk&theme=tokyo-night)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaLaraibBonk&theme=tokyonight)
 
 ## Introduction 
