@@ -5,7 +5,7 @@ This is my GitHub page, you can look around and check out some of my projects or
 ## 📊 GitHub Stats
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatimaLaraibBonk&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com?user=fatimaLaraibBonk&theme=tokyonight)
+
 
 ## Introduction 
 Currently I am a student at FAST NUCES, Islamabad with 2 years left till graduation. I've done a few internships that you can check out on my CV/LinkedIn or my portfolio. 
